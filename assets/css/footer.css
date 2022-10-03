@@ -7,7 +7,7 @@ footer{
       }
       footer::before{
         content: '';
-        position: absolute;
+        position: static;
         left: 0;
         top: 100px;
         height: 1px;
